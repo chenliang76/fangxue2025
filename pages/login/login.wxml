@@ -1,0 +1,6 @@
+<view class="container">
+    <view class="input-group">
+        <input  type="number" placeholder="请输入手机号码" bindinput="onPhoneInput" />
+    </view>
+    <button class="btn-login" bindtap="onLogin">登录</button>
+</view>
